@@ -1,0 +1,14 @@
+{
+	"manifest_version": 2,
+	"name": "messenger_shortcuts",
+	"version": "0.1",
+
+	"content_scripts": [
+	  {
+   	 "matches": [
+  		"https://www.messenger.com/*"
+	],
+   	 "js": ["keymaster.js", "content.js"]
+  }
+]
+}
