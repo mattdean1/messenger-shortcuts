@@ -2,8 +2,6 @@
 
 > Chrome extension which adds keyboard shortcuts to messenger.com
 
-Some awful JS I wrote a long time ago which I still use every day.
-
 Adds the following keyboard shortcuts to messenger.com:
 
  ### Next chat
